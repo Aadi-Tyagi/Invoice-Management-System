@@ -1,6 +1,6 @@
 # Invoice-Management-System
 
-## About Project 💻 ##
+## About the Project 💻 ##
 As in any business, Invoices are used, and they usually contain a list of charges for all the services or products rendered. There are different types of businesses and they work with other businesses on credit. When a buyer orders goods from the seller, the seller issues an invoice for the same. The project objective was to design and develop an invoice management system to expenses efficiently and saves both time and money in business operations.
 
 ![Homepage](https://user-images.githubusercontent.com/87977583/169684395-5679d4c1-4d49-41ca-947e-43d47ff54f98.png)
